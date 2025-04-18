@@ -1,0 +1,6 @@
+{
+  "NbitaiTokenModule#NbitaiTokenImpl": "0xB2b68bf2ee89dEc579a4f1bA74A55c0D3D394105",
+  "NbitaiTokenModule#NbitaiTokenProxy": "0x109F56ADaDE483e95e152d44a2c05729E0f2F5e2",
+  "NbitaiTokenSaleModule#NbitaiTokenSale": "0x059918235416cCB7616ec059fAFA435b789Cc917",
+  "TestUsdtModule#TestUsdt": "0x30e4ba6867a9232E8f65fDE161297F9486424Ba5"
+}
